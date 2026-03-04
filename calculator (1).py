@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Welcome to Abdullah's ⌨️ Calculator")
+st.title("Welcome to Irfan ⌨️ Calculator")
 
 # 1. Initialize memory
 if "calc_display" not in st.session_state:
